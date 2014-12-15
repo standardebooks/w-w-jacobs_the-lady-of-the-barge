@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/w-w-jacobs/the-lady-of-the-barge</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/w-w-jacobs/the-lady-of-the-barge/maurice-greiffenhagen</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2014-12-13T22:51:11Z</meta>
+		<meta property="dcterms:modified">2015-03-26T23:38:07Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url:homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url:homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
 		<link href="epub/onix.xml" rel="onix-record"/>
@@ -25,30 +25,37 @@
 		<meta property="meta-auth" refines="#subject-2">http://www.worldcat.org/title/lady-of-the-barge/oclc/1699709</meta>
 		<meta property="meta-auth" refines="#subject-3">http://www.worldcat.org/title/lady-of-the-barge/oclc/1699709</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description>An anthology of many of W. W. Jacobs' most famous short stories.</dc:description>
+		<dc:description id="description">An anthology of several of W. W. Jacobs' most famous short stories.</dc:description>
+		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;This is temporary collection that should be replaced with a complete &amp;ldquo;Short Stories&amp;rdquo; collection at a later date.&lt;/p&gt;
+		</meta>
+		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/12133</dc:source>
 		<dc:source>https://archive.org/stream/ladyofbarge00jaco</dc:source>
-		<meta property="se:url:wikipedia">https://en.wikipedia.org/wiki/The_Lady_of_the_Barge</meta>
+		<meta property="se:word-count">47365</meta>
+		<meta property="se:url.wikipedia">https://en.wikipedia.org/wiki/The_Lady_of_the_Barge</meta>
 		<dc:creator id="author">W. W. Jacobs</dc:creator>
 		<meta property="file-as" refines="#author">Jacobs, W. W.</meta>
-		<meta property="se:url:wikipedia" refines="#author">https://en.wikipedia.org/wiki/W._W._Jacobs</meta>
+		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/W._W._Jacobs</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="illustrator">Maurice Greiffenhagen</dc:contributor>
 		<meta property="file-as" refines="#illustrator">Greiffenhagen, Maurice</meta>
-		<meta property="se:url:wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/Maurice_Greiffenhagen</meta>
+		<meta property="se:url.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/Maurice_Greiffenhagen</meta>
 		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url:wikipedia" refines="#artist">WIKILINK</meta>
+		<dc:contributor id="artist">Camille Pissarro</dc:contributor>
+		<meta property="file-as" refines="#artist">Pissarro, Camille</meta>
+		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Camille_Pissarro</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Widger, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
-		<meta property="se:url:homepage" refines="#producer-1">https://alexcabal.com</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
@@ -65,7 +72,7 @@
 		<item href="images/frontispiece.jpg" id="frontispiece.jpg" media-type="image/jpeg"/>
 		<item href="images/gunn-placed-a-hand.jpg" id="gunn-placed-a-hand.jpg" media-type="image/jpeg"/>
 		<item href="images/he-saw-another.jpg" id="he-saw-another.jpg" media-type="image/jpeg"/>
-		<item href="images/logo.png" id="logo.png" media-type="image/png"/>
+		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/mrs-driver-fell-back.jpg" id="mrs-driver-fell-back.jpg" media-type="image/jpeg"/>
 		<item href="images/the-second-officer-leaned-forward.jpg" id="the-second-officer-leaned-forward.jpg" media-type="image/jpeg"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>

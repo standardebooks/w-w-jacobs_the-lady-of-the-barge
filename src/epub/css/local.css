@@ -1,6 +1,10 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+abbr.initialism{
+	font-variant: all-small-caps;
+}
+
 figure{
 	page-break-before: always;
 	page-break-after: always;
@@ -19,10 +23,6 @@ figure img{
 figcaption{
 	font-style: italic;
 	font-size: .75em;
-}
-
-strong{
-	font-variant: small-caps;
 }
 
 section[epub|type~="subchapter"]{
