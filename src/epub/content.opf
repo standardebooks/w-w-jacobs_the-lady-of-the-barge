@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/w-w-jacobs/the-lady-of-the-barge/maurice-greiffenhagen</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-03-27T20:21:25Z</meta>
+		<meta property="dcterms:modified">2015-04-03T00:11:01Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -35,7 +35,7 @@
 		<dc:source>http://www.gutenberg.org/ebooks/12133</dc:source>
 		<dc:source>https://archive.org/stream/ladyofbarge00jaco</dc:source>
 		<meta property="se:word-count">47365</meta>
-		<meta property="se:url.wikipedia">https://en.wikipedia.org/wiki/The_Lady_of_the_Barge</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Lady_of_the_Barge</meta>
 		<dc:creator id="author">W. W. Jacobs</dc:creator>
 		<meta property="file-as" refines="#author">Jacobs, W. W.</meta>
 		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/W._W._Jacobs</meta>
