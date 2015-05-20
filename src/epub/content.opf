@@ -18,7 +18,7 @@
 		<link href="epub/onix.xml" rel="onix-record"/>
 		<dc:title id="title">The Lady of the Barge</dc:title>
 		<meta property="file-as" refines="#title">Lady of the Barge, The</meta>
-		<dc:subject id="subject-1">Short stories, English.</dc:subject>
+		<dc:subject id="subject-1">Short stories, English</dc:subject>
 		<dc:subject id="subject-2">Magic--Fiction</dc:subject>
 		<dc:subject id="subject-3">Amulets--Fiction</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">http://www.worldcat.org/title/lady-of-the-barge/oclc/1699709</meta>
