@@ -39,6 +39,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-w-jacobs_the-lady-of-the-barge_maurice-greiffenhagen</meta>
 		<dc:creator id="author">W. W. Jacobs</dc:creator>
 		<meta property="file-as" refines="#author">Jacobs, W. W.</meta>
+		<meta property="se:name.person.full-name" refines="#author">William Wymark Jacobs</meta>
 		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/W._W._Jacobs</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="illustrator">Maurice Greiffenhagen</dc:contributor>
