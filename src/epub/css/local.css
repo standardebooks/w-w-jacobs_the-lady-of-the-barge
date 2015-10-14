@@ -25,6 +25,6 @@ figcaption{
 	font-size: .75em;
 }
 
-section[epub|type~="subchapter"]{
+section[epub|type~="chapter"]{
 	page-break-after: always;
 }
