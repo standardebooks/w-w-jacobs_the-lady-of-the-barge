@@ -1,10 +1,6 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.initialism{
-	font-variant: all-small-caps;
-}
-
 figure{
 	page-break-before: always;
 	page-break-after: always;
