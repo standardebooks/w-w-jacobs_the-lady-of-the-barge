@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/w-w-jacobs/the-lady-of-the-barge/maurice-greiffenhagen</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-11-19T00:06:41Z</meta>
+		<meta property="dcterms:modified">2015-11-30T00:37:46Z</meta>
 		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -31,7 +31,7 @@
 			&lt;p&gt;This is temporary collection that should be replaced with a complete &amp;ldquo;Short Stories&amp;rdquo; collection at a later date.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>en-US</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/12133</dc:source>
 		<dc:source>https://archive.org/stream/ladyofbarge00jaco</dc:source>
 		<meta property="se:word-count">47365</meta>
