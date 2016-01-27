@@ -92,19 +92,21 @@
 		<item href="text/an-adulteration-act.xhtml" id="an-adulteration-act.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/bills-paper-chase.xhtml" id="bills-paper-chase.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/captain-rogers.xhtml" id="captain-rogers.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/cupboard-love.xhtml" id="cupboard-love.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/in-the-library.xhtml" id="in-the-library.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/the-lady-of-the-barge.xhtml" id="the-lady-of-the-barge.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-monkeys-paw.xhtml" id="the-monkeys-paw.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-well.xhtml" id="the-well.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/three-at-table.xhtml" id="three-at-table.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
 		<itemref idref="the-lady-of-the-barge.xhtml"/>
 		<itemref idref="the-monkeys-paw.xhtml"/>
 		<itemref idref="bills-paper-chase.xhtml"/>
