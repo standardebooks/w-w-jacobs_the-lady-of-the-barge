@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/w-w-jacobs/the-lady-of-the-barge/maurice-greiffenhagen</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/w-w-jacobs/the-lady-of-the-barge</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">2014-05-25T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -49,18 +49,13 @@
 		<meta property="se:word-count">47269</meta>
 		<meta property="se:reading-ease.flesch">82.34</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Lady_of_the_Barge</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-w-jacobs_the-lady-of-the-barge_maurice-greiffenhagen</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-w-jacobs_the-lady-of-the-barge</meta>
 		<dc:creator id="author">W. W. Jacobs</dc:creator>
 		<meta property="file-as" refines="#author">Jacobs, W. W.</meta>
 		<meta property="se:name.person.full-name" refines="#author">William Wymark Jacobs</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/W._W._Jacobs</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50027985</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="illustrator">Maurice Greiffenhagen</dc:contributor>
-		<meta property="file-as" refines="#illustrator">Greiffenhagen, Maurice</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/Maurice_Greiffenhagen</meta>
-		<meta property="se:url.authority.nacoaf" refines="#illustrator">http://id.loc.gov/authorities/names/n77018492</meta>
-		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Camille Pissarro</dc:contributor>
 		<meta property="file-as" refines="#artist">Pissarro, Camille</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Camille_Pissarro</meta>
@@ -83,21 +78,9 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
-		<item href="images/burleigh-with-a-feeling-of-nausia.jpg" id="burleigh-with-a-feeling-of-nausia.jpg" media-type="image/jpeg"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
-		<item href="images/dont-you-think-major-brill.jpg" id="dont-you-think-major-brill.jpg" media-type="image/jpeg"/>
-		<item href="images/frontispiece.jpg" id="frontispiece.jpg" media-type="image/jpeg"/>
-		<item href="images/gunn-placed-a-hand.jpg" id="gunn-placed-a-hand.jpg" media-type="image/jpeg"/>
-		<item href="images/he-saw-another.jpg" id="he-saw-another.jpg" media-type="image/jpeg"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
-		<item href="images/mrs-driver-fell-back.jpg" id="mrs-driver-fell-back.jpg" media-type="image/jpeg"/>
-		<item href="images/the-second-officer-leaned-forward.jpg" id="the-second-officer-leaned-forward.jpg" media-type="image/jpeg"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="images/well-leave-you.jpg" id="well-leave-you.jpg" media-type="image/jpeg"/>
-		<item href="images/whats-that.jpg" id="whats-that.jpg" media-type="image/jpeg"/>
-		<item href="images/you-get-younger.jpg" id="you-get-younger.jpg" media-type="image/jpeg"/>
-		<item href="images/you-say-youre-a-doctor.jpg" id="you-say-youre-a-doctor.jpg" media-type="image/jpeg"/>
-		<item href="images/you-villain.jpg" id="you-villain.jpg" media-type="image/jpeg"/>
 		<item href="text/a-golden-venture.xhtml" id="a-golden-venture.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-mixed-proposal.xhtml" id="a-mixed-proposal.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-tigers-skin.xhtml" id="a-tigers-skin.xhtml" media-type="application/xhtml+xml"/>
@@ -108,7 +91,6 @@
 		<item href="text/cupboard-love.xhtml" id="cupboard-love.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/in-the-library.xhtml" id="in-the-library.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-lady-of-the-barge.xhtml" id="the-lady-of-the-barge.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-monkeys-paw.xhtml" id="the-monkeys-paw.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-well.xhtml" id="the-well.xhtml" media-type="application/xhtml+xml"/>
@@ -131,7 +113,6 @@
 		<itemref idref="an-adulteration-act.xhtml"/>
 		<itemref idref="a-golden-venture.xhtml"/>
 		<itemref idref="three-at-table.xhtml"/>
-		<itemref idref="loi.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
