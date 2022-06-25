@@ -39,6 +39,7 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">An anthology of several of W. W. Jacobs’ most famous short stories.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/w-w-jacobs/"&gt;&lt;abbr&gt;W. W.&lt;/abbr&gt; Jacobs&lt;/a&gt; was a prolific writer of short stories. His topics were typically humorous and nautical in nature, but they weren’t exclusively so. This anthology includes some of his most famous short stories, including “The Monkey’s Paw,” a story of the supernatural in which a monkey’s hand grants three wishes to its owner, but at huge cost.&lt;/p&gt;
